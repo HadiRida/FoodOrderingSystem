@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author hrida
- *
- */
-module lol {
-}
