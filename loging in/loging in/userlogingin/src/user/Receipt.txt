@@ -1,0 +1,110 @@
+
+
+
+       Object Oriented Burger Resturant                
+ORDER #1
+TELEPHONE: 81-867-632
+------------------------------------------
+STAFF : INVALID
+Date :04/05/2023 21:21:53
+------------------------------------------
+DESCRIPTION                        AMOUNT
+Beef burger                        2.5$
+Chicken burger                     2.5$
+------------------------------------------
+TOPPINGD ADDED                     AMOUNT
+MOZZARELLA                         2.0$
+------------------------------------------
+NUMBER OF ITEMS: 2
+------------------------------------------
+TOTAL:                             7.0$
+
+
+
+       Object Oriented Burger Resturant                
+ORDER #1
+TELEPHONE: 81-867-632
+------------------------------------------
+STAFF : INVALID
+Date :04/05/2023 21:36:20
+------------------------------------------
+DESCRIPTION                        AMOUNT
+Beef burger                        2.5$
+------------------------------------------
+TOPPINGD ADDED                     AMOUNT
+MOZZARELLA                         2.0$
+------------------------------------------
+NUMBER OF ITEMS: 1
+------------------------------------------
+TOTAL:                             4.5$
+
+
+
+       Object Oriented Burger Resturant                
+ORDER #1
+TELEPHONE: 81-867-632
+------------------------------------------
+STAFF : INVALID
+Date :04/05/2023 21:43:26
+------------------------------------------
+DESCRIPTION                        AMOUNT
+Hadi Special                       100.0$
+Water                              1.0$
+------------------------------------------
+NUMBER OF ITEMS: 2
+------------------------------------------
+TOTAL:                             101.0$
+
+
+
+       Object Oriented Burger Resturant                
+ORDER #1
+TELEPHONE: 81-867-632
+------------------------------------------
+STAFF : INVALID
+Date :04/05/2023 21:44:21
+------------------------------------------
+DESCRIPTION                        AMOUNT
+Beef burger                        2.5$
+Beef burger                        2.5$
+------------------------------------------
+NUMBER OF ITEMS: 2
+------------------------------------------
+TOTAL:                             5.0$
+
+
+
+       Object Oriented Burger Resturant                
+ORDER #1
+TELEPHONE: 81-867-632
+------------------------------------------
+STAFF : INVALID
+Date :08/05/2023 23:44:52
+------------------------------------------
+DESCRIPTION                        AMOUNT
+Hadi Special                       100.0$
+Zinger burger                      5.0$
+------------------------------------------
+TOPPINGD ADDED                     AMOUNT
+MOZZARELLA                         2.0$
+------------------------------------------
+NUMBER OF ITEMS: 2
+------------------------------------------
+TOTAL:                             107.0$
+
+
+
+       Object Oriented Burger Resturant                
+ORDER #1
+TELEPHONE: 81-867-632
+------------------------------------------
+STAFF : INVALID
+Date :09/05/2023 23:22:22
+------------------------------------------
+DESCRIPTION                        AMOUNT
+Moaad Special                      1.0$
+Ice Cream                          4.0$
+------------------------------------------
+NUMBER OF ITEMS: 2
+------------------------------------------
+TOTAL:                             5.0$
